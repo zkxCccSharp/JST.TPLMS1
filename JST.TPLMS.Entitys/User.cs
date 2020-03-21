@@ -35,5 +35,7 @@ namespace JST.TPLMS.Entitys
         [MaxLength(150), Required]
         public string Email { get; set; }
 
+        public string testColunm { get; set; }
+
     }
 }
