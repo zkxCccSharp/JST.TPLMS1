@@ -26,5 +26,9 @@ namespace JST.TPLMS.Util
         /// 表示业务操作结果的枚举
         /// </summary>
         public OperationResultType ResultType { get; set; }
+
+        public string Id { get; set; }
+
+        public string No { get; set; }
     }
 }

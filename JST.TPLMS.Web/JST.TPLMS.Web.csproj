@@ -18,6 +18,7 @@
   <ItemGroup>
     <ProjectReference Include="..\JST.TPLMS.DataBase\JST.TPLMS.DataBase.csproj" />
     <ProjectReference Include="..\JST.TPLMS.Entitys\JST.TPLMS.Entitys.csproj" />
+    <ProjectReference Include="..\JST.TPLMS.Util\JST.TPLMS.Util.csproj" />
   </ItemGroup>
 
 </Project>
