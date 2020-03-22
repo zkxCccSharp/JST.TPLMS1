@@ -1,5 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\JST.TPLMS.DataBase\JST.TPLMS.DataBase.csproj" />
+    <ProjectReference Include="..\JST.TPLMS.Contract\JST.TPLMS.Contract.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
